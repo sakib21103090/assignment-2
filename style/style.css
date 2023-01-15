@@ -215,6 +215,9 @@ padding-top: 45px;
 
 
 }
+.icon-bg:hover{
+    transform: rotate(65deg);
+}
 .icon-title, .icon-dis{
     font-weight: 600;
     color: #424242;
@@ -351,13 +354,15 @@ padding: 39px 400px 38px 300px;
     .fact-dis{
         margin:0px;
         padding:0px;
-        margin-bottom: 15px;
+        margin-bottom: 35px;
     }
     .icon-info{
         grid-template-columns: repeat(1,1fr);
     }
     .icon-bg{
-        margin-bottom: 15px;
+        
+        margin-bottom: 50px;
+        margin-left: 20px;
     }
     .sopns-head{
         text-align: left;
@@ -389,4 +394,5 @@ padding: 39px 400px 38px 300px;
        color: #424242;
        padding: 30px 10px 30px 10px;
     }
+    
   }
