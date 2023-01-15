@@ -331,6 +331,18 @@ padding: 39px 400px 38px 300px;
         margin:0px;
         padding:0px;
     }
+    .sec-head{
+        margin-left: 20px;
+    }
+    .version{
+        margin-left: 15px;
+    }
+    .b-tag{
+        margin-left: 15px;
+    }
+    img{
+        margin-left: 15px;
+    }
     .some-fact{
         flex-direction: column;
         margin-left: 20px;
